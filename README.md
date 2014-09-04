@@ -35,6 +35,7 @@ It would be better to hide the sharing box, and display it only when the user re
 Which is better because this way, the user will not think that we are loading something each time he want it. Its loaded at the beginning, and its display only when the user want to use it.
 
 ### ToDo
+#### General
 + [ ] Create an empty extension folder.
 + [ ] Get the APIs token of Twitter & Facebook.
 + [X] Started to integrate a first draft, without major design details.
@@ -42,3 +43,6 @@ Which is better because this way, the user will not think that we are loading so
 + [ ] Create the final design.
 + [ ] Spread the world.
 + [ ] Give a cookie to Tim Pietrusky once it's done.
+
+### Design 
++ [ ] Create a logo
