@@ -1,7 +1,7 @@
 SpreadR
 =======
 
-A collaborative project of @dervondenbergen &amp; I. More infos soon. 
+A collaborative project of @dervondenbergen,  @jofpin &amp; I. More infos soon. 
 
 # Specs 
 ## Summary 
